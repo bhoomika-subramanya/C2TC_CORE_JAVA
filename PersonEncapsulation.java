@@ -1,6 +1,6 @@
 package tns_encapsulation;
 
-public class Person {
+public class PersonEncapsulation {
 	private int age;
 	private String name;
 	private int income;
