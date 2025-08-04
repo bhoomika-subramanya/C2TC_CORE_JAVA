@@ -1,6 +1,6 @@
 package tns_encapsulation;
 
-public class PersonDEMO {
+public class PersonDEMOEncapsulation {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
